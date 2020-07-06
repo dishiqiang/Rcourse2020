@@ -14,7 +14,7 @@ classoption: "hyperref,"
 ---
 
 # 引言
-
+中文中文中文中文中文中文中文中文中文中文
 中文LaTeX文档并非难题。当然这句话得站在巨人 [CTeX](http://ctex.org) 的肩膀上才能说，它让我们只需要一句
 
 ```latex

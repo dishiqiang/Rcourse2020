@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.7.6)  6 JUL 2020 23:18
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.7.6)  6 JUL 2020 23:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -791,42 +791,42 @@ e=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/FangSong(0)/m/n' will be
-(Font)              scaled to size 10.2909pt on input line 128.
+(Font)              scaled to size 10.2909pt on input line 129.
 
 LaTeX Font Warning: Font shape `TU/FangSong(0)/m/it' undefined
-(Font)              using `TU/FangSong(0)/m/n' instead on input line 129.
+(Font)              using `TU/FangSong(0)/m/n' instead on input line 130.
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.53937> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 153.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 154.
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-194.
+195.
 [2]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.53937> on input line 200.
+(Font)              <10.53937> on input line 201.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 200.
+(Font)              <7> on input line 201.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 200.
+(Font)              <5> on input line 201.
 File: chinese2_files/figure-latex/scatter-1.pdf Graphic file (type pdf)
 <use chinese2_files/figure-latex/scatter-1.pdf>
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
 (./chinese2.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 236.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 237.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 237.
 Package rerunfilecheck Info: File `chinese2.out' has not changed.
 (rerunfilecheck)             Checksum: 34D5FB997461654D8D1047EDF4ECE48E;348.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
  ) 
 Here is how much of TeX's memory you used:
  21197 strings out of 481269
